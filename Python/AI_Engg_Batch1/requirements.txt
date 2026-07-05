@@ -11,3 +11,4 @@ fastapi
 uvicorn
 rank_bm25
 langchain_mcp_adapters
+langsmith

@@ -1,6 +1,9 @@
 def main():
-        import Day7_MCP
-        Day7_MCP.MCPFn()
+        import Day8_Tracing
+        Day8_Tracing.Tracing()
+
+        # import Day7_MCP
+        # Day7_MCP.MCPFn()
 
         # import Day6_AdvRAG
         # Day6_AdvRAG.AdvRAGPipeline()
